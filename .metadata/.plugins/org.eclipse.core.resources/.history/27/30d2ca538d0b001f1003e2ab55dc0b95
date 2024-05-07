@@ -1,0 +1,15 @@
+package lesson;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		var menberCount = 100;
+		var totalTime = 5000;
+		if (menberCount >= 1000 || totalTime >= 4000) {
+			System.out.println("収益化OK！");
+		} else {
+			System.out.println("もう少し！");
+		}
+	}
+}

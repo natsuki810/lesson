@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+/Users/natsuki/Desktop/202405_java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2790805760.index

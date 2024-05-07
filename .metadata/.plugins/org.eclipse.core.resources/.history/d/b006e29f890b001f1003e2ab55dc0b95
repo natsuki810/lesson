@@ -1,0 +1,13 @@
+package lesson;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		int item1 = 98 * 3;
+	    var item2 = 168 * 5;
+		System.out.println((item1+ item2) / 2);
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package lesson;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		Video v = new Video();
+		v.name = "Java基礎";
+		V.plyayCount = 3;
+		System.out.println(v.name);
+	}	
+}
